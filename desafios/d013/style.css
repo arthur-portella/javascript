@@ -1,0 +1,23 @@
+body {
+    font: 12px Arial;
+}
+
+button {
+    font-size: 12px;
+    padding: 30px;
+}
+
+.aprovado {
+    background-color: #A6EB9A;
+    color: #377F22;
+}
+
+.recuperacao {
+    background-color: #FFFFE3;
+    color: #C3884B;
+}
+
+.reprovado {
+    background-color: #E18783;
+    color: #821B0E;
+}

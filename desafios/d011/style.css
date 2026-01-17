@@ -1,0 +1,18 @@
+body {
+    font: 12px Arial;
+}
+
+button {
+    font-size: 12px;
+    padding: 30px;
+}
+
+.bissexto {
+    background-color: greenyellow;
+    color: darkgreen;
+}
+
+.nao-bissexto {
+    background-color: red;
+    color: rgb(46, 4, 4);
+}
